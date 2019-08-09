@@ -2,18 +2,18 @@
 
 <p>I am currently working with Dr. Jianguo Lu in the documents and network analysis using machine and deep learning algorithm using word2vec.</p>
 
-<h1>What is CSO ?</h1>
+<h2>What is CSO ?</h2>
 
 <p>CSO is subject predicate object relationship s + v + o each term or topic is somehow relate to another by predicate.</p>
 
-<h1>More details:</h1>
+<h2>More details:</h2>
 
 <p>http://jlu.myweb.cs.uwindsor.ca/ont/</p>
 
-<h1>Data Set:</h1>
+<h2>Data Set:</h2></br>
 <p>
-http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-0.json
-http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-1.json
-http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-2.json
-http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-3.json
+http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-0.json</br>
+http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-1.json</br>
+http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-2.json</br>
+http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-3.json</br>
  </p>
