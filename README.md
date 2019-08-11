@@ -12,6 +12,7 @@
 
 <h2>Data Set:</h2></br>
 <p>
+Use cmd wget <url> </br>
 http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-0.json</br>
 http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-1.json</br>
 http://jlu.myweb.cs.uwindsor.ca/data/dblp-ref/dblp-ref-2.json</br>
